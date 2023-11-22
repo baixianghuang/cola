@@ -12,11 +12,11 @@ The repository contains all the code and datasets used in our CoLA paper. CoLA i
 ## Datasets
 CoLA has been evaluated on various datasets spanning different genres and styles. 
 
-- Enron Email Dataset: Contains approximately half a million messages from senior Enron managers. It's valuable for studying corporate communication and criminal networks, characterized by lengthy texts and significant variation in text-per-author. [Data](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)
+- Enron Email Dataset: Contains approximately half a million messages from senior Enron managers. It's valuable for studying corporate communication and criminal networks, characterized by lengthy texts and significant variation in text-per-author. [[Data](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset)]
 
-- IMDb62 Dataset: Consists of writings from 62 authors, with 1,283 texts per author. This dataset is useful for examining authorial style in a relatively controlled topical environment. [Data](https://umlt.infotech.monash.edu/?page_id=266)
+- IMDb62 Dataset: Consists of writings from 62 authors, with 1,283 texts per author. This dataset is useful for examining authorial style in a relatively controlled topical environment. [[Data](https://umlt.infotech.monash.edu/?page_id=266)]
 
-- Blog Authorship Attribution Corpus: A collection of over 680,000 blog posts from more than 19,000 authors, sourced from blogger.com as of 2004. It provides a rich source of data for analyzing the impact of factors like age and gender on blogging habits, with an average of 35 posts per author and short texts averaging 79 tokens for the top five authors. [Data](https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus)
+- Blog Authorship Attribution Corpus: A collection of over 680,000 blog posts from more than 19,000 authors, sourced from blogger.com as of 2004. It provides a rich source of data for analyzing the impact of factors like age and gender on blogging habits, with an average of 35 posts per author and short texts averaging 79 tokens for the top five authors. [[Data](https://www.kaggle.com/datasets/rtatman/blog-authorship-corpus)]
 
 - The Reddit dataset consists of 300 million posts from 1 million users, spanning from July 2015 to June 2016, and is sourced from the Pushshift Reddit corpus, focusing on users with 100 to 1000 posts to balance author history and minimize spam accounts ([Khan et al., 2021, NAACL](https://arxiv.org/pdf/2105.07263.pdf); [Baumgartner et al., 2020, AAAI](https://arxiv.org/pdf/2001.08435.pdf)).
 
